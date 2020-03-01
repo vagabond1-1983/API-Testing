@@ -4,3 +4,4 @@ API测试：postman，jmeter，yapi，httprunner，自研接口框架
 ## 第二课 [postman简单使用](postman/lesson2)
 ## 第三课 [postman发送post请求的其他场景](postman/lesson3)
 ## 第四课 [postman环境和用例集](postman/lesson4)
+## 第五课 [postman断言和运行](postman/lesson5)
