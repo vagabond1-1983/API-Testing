@@ -6,7 +6,8 @@ API测试：postman，jmeter，yapi，httprunner，自研接口框架
 ## 第四课 [postman环境和用例集](postman/lesson4)
 ## 第五课 [postman断言](postman/lesson5)
 ## 第六课 [postman运行用例集](postman/lesson6)
-## 第七课 [charles工具介绍]
-## 第八课 [charles录制接口]
-## 第九课 [charles结合postman的使用]
-## 第十课 [小结postman]
+## 第七课 [postman运行参数化用例集](postman/lesson7)
+## 第八课 [charles工具介绍]
+## 第九课 [charles录制接口]
+## 第十课 [charles结合postman的使用]
+## 第十一课 [小结postman]
