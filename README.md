@@ -9,3 +9,4 @@ API测试：postman，jmeter，yapi，httprunner，自研接口框架
 ## 第七课 [postman运行参数化用例集](postman/lesson7)
 ## 第八课 [小结postman](postman/README.md)
 ## 第九课 [接口性能开篇](performance)
+## 第十课 [用mall商城项目进行接口实战](performance/lesson10)
