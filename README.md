@@ -15,6 +15,8 @@ API测试：postman，jmeter，yapi，httprunner，自研接口框架
 ### 第九课 [接口性能开篇](performance)
 ### 第十课 [用mall商城项目进行接口实战](performance/lesson10)
 ### 第十一课 [jmeter接口测试案例](performance/lesson11)
+### 第十二课 [模拟100个用户进行品牌查询](performance/lesson12)
+### 第十三课 [模拟真实场景下的品牌查询](performance/lesson13)
 ## 接口测试框架
 ## 接口测试平台
 ## 接口测试持续集成
