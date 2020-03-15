@@ -1,0 +1,63 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "array",
+  "title": "The Root Schema",
+  "description": "The root schema comprises the entire JSON document.",
+  "items": {
+    "$id": "#/items",
+    "type": "object",
+    "title": "The Items Schema",
+    "description": "An explanation about the purpose of this instance.",
+    "default": {},
+    "examples": [
+      {
+        "nickName": "昵称1",
+        "email": "邮箱1",
+        "userId": 1.0
+      },
+      {
+        "nickName": "昵称2",
+        "email": "邮箱2",
+        "userId": 2.0
+      }
+    ],
+    "required": [
+      "nickName",
+      "email",
+      "userId",
+    ],
+    "properties": {
+      "nickName": {
+        "$id": "#/items/properties/nickName",
+        "type": "string",
+        "title": "The Nickname Schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "昵称1"
+        ]
+      },
+      "email": {
+        "$id": "#/items/properties/email",
+        "type": "string",
+        "title": "The Email Schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": "",
+        "examples": [
+          "邮箱1"
+        ]
+      },
+      "userId": {
+        "$id": "#/items/properties/userId",
+        "type": "integer",
+        "title": "The Userid Schema",
+        "description": "An explanation about the purpose of this instance.",
+        "default": 0,
+        "examples": [
+          1
+        ]
+      }
+    }
+  }
+}
