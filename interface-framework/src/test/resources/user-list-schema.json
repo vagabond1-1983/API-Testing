@@ -25,7 +25,7 @@
     "required": [
       "nickName",
       "email",
-      "userId",
+      "userId"
     ],
     "properties": {
       "nickName": {
